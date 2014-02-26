@@ -104,4 +104,12 @@ footer li a {
 	width:30%;
 	margin-left: 3%
 }
+.categories {
+	padding: 10px 0 0 30px;
+}
+.categories .categories-list {
+	list-style-type: square;
+	margin-bottom: 5px;
+	font-style: italic;
+}
 /*Main styles end*/
