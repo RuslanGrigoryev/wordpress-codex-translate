@@ -70,6 +70,13 @@ h3 {
 	font-size: 1.6em;
 	text-align: center;
 }
+h4 {
+	margin: 5px 0;
+	text-align: center;
+	font-size: 1.4em;
+	border-bottom: 1px solid #dcdcdc;
+	padding: 0 30px;
+}
 p {
 	text-indent: 30px;
 	margin: 7px 0;
@@ -79,6 +86,7 @@ footer {
 	padding: 10px;
 	margin-top: 20px;
 	border-top: 1px solid #1abc9c;
+	clear: both;
 }
 a {
 	color: #e74c3c;
@@ -102,7 +110,8 @@ footer li a {
 }
 .main {
 	width:30%;
-	margin-left: 3%
+	margin-left: 3%;
+	float: left;
 }
 .categories {
 	padding: 10px 0 0 30px;
